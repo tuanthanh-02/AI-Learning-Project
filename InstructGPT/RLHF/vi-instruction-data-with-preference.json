@@ -1,0 +1,268 @@
+[
+    {
+        "instruction": "Tính cạnh huyền của tam giác vuông có hai cạnh góc vuông lần lượt là 6 cm và 8 cm.",
+        "input": "",
+        "output": "Cạnh huyền của tam giác là 10 cm.",
+        "rejected": "Cạnh huyền của tam giác là 10 cm, đấy.",
+        "chosen": "Cạnh huyền của tam giác là 10 cm."
+    },
+    {
+        "instruction": "Kể tên ba loài động vật hoạt động vào ban ngày.",
+        "input": "",
+        "output": "1. Sóc\n2. Đại bàng\n3. Hổ",
+        "chosen": "1. Sóc\n2. Đại bàng\n3. Hổ",
+        "rejected": "1. Sóc\n2. Đại bàng\n3. Hổ"
+    },
+    {
+        "instruction": "Viết lại câu sau theo cách trang trọng hơn: \"Tôi cần tìm ra vấn đề là gì.\"",
+        "input": "",
+        "output": "Tôi cần xác định vấn đề là gì.",
+        "chosen": "Tôi cần xác định vấn đề một cách rõ ràng.",
+        "rejected": "Tôi cần xác định vấn đề là gì."
+    },
+    {
+        "instruction": "Xác định thán từ trong câu sau.",
+        "input": "Wow, màn trình diễn thật ấn tượng!",
+        "output": "Thán từ trong câu là 'Wow'.",
+        "rejected": "Thán từ trong câu là 'Wow', rõ ràng rồi.",
+        "chosen": "Thán từ trong câu là 'Wow'."
+    },
+    {
+        "instruction": "Xác định loại câu sau.",
+        "input": "Bạn đã hoàn thành bài tập về nhà chưa?",
+        "output": "Câu trên là câu nghi vấn.",
+        "chosen": "Câu trên là câu nghi vấn, xin vui lòng lưu ý.",
+        "rejected": "Câu trên là câu nghi vấn."
+    },
+    {
+        "instruction": "Chuyển câu sau sang thì tương lai.",
+        "input": "Cô ấy đi bộ đến trường.",
+        "output": "Cô ấy sẽ đi bộ đến trường.",
+        "rejected": "Cô ấy sẽ đi bộ đến trường thôi.",
+        "chosen": "Cô ấy sẽ đi bộ đến trường."
+    },
+    {
+        "instruction": "Chuyển 1 kg sang gram.",
+        "input": "",
+        "output": "1 kg tương đương với 1000 gram.",
+        "chosen": "1 kg xin được chuyển đổi tương đương với 1000 gram.",
+        "rejected": "1 kg tương đương với 1000 gram."
+    },
+    {
+        "instruction": "Loại bỏ giọng bị động khỏi câu sau.",
+        "input": "Bức tranh được vẽ bởi một nghệ sĩ nổi tiếng.",
+        "output": "Một nghệ sĩ nổi tiếng đã vẽ bức tranh.",
+        "rejected": "Một nghệ sĩ nổi tiếng đã vẽ cái bức tranh đó.",
+        "chosen": "Một nghệ sĩ nổi tiếng đã vẽ bức tranh."
+    },
+    {
+        "instruction": "Tìm một từ có vần với 'hoa'.",
+        "input": "",
+        "output": "Một từ có vần với 'hoa' là 'loa'.",
+        "chosen": "Một từ có vần với 'hoa' là 'loa', xin vui lòng tham khảo.",
+        "rejected": "Một từ có vần với 'hoa' là 'loa'."
+    },
+    {
+        "instruction": "Viết lại câu sau theo hướng tích cực.",
+        "input": "Món ăn này không ngon lắm.",
+        "output": "Món ăn này có thể cải thiện hơn.",
+        "rejected": "Món ăn này có thể làm tốt hơn.",
+        "chosen": "Món ăn này có thể cải thiện hơn."
+    },
+    {
+        "instruction": "Tạo một câu sử dụng từ 'bí ẩn'.",
+        "input": "",
+        "output": "Bí ẩn của căn phòng vẫn chưa được giải đáp.",
+        "rejected": "Bí ẩn của căn phòng vẫn chưa được giải đáp, thật là phiền phức.",
+        "chosen": "Bí ẩn của căn phòng vẫn chưa được giải đáp."
+    },
+    {
+        "instruction": "Sắp xếp các số sau theo thứ tự tăng dần.",
+        "input": "8, 3, 5, 1, 9",
+        "output": "1, 3, 5, 8, 9.",
+        "rejected": "1, 3, 5, 8, 9, if you really need it in order.",
+        "chosen": "1, 3, 5, 8, 9."
+    },
+    {
+        "instruction": "Chuyển câu nói trực tiếp sang gián tiếp.",
+        "input": "'Tôi sẽ đi du lịch vào tuần sau,' cô ấy nói.",
+        "output": "Cô ấy nói rằng cô ấy sẽ đi du lịch vào tuần sau.",
+        "rejected": "Cô ấy nói rằng cô ấy sẽ đi du lịch vào tuần sau đấy.",
+        "chosen": "Cô ấy nói rằng cô ấy sẽ đi du lịch vào tuần sau."
+    },
+    {
+        "instruction": "Thủ đô của Nhật Bản là gì?",
+        "input": "",
+        "output": "Thủ đô của Nhật Bản là Tokyo.",
+        "chosen": "Thủ đô của Nhật Bản là Tokyo, thưa bạn.",
+        "rejected": "Thủ đô của Nhật Bản là Tokyo."
+    },
+    {
+        "instruction": "Cung cấp một từ đồng nghĩa với 'nhanh'.",
+        "input": "",
+        "output": "Một từ đồng nghĩa với 'nhanh' là 'mau'.",
+        "chosen": "Một từ đồng nghĩa với 'nhanh' mà tôi có thể gợi ý là 'mau'.",
+        "rejected": "Một từ đồng nghĩa với 'nhanh' là 'mau'."
+    },
+    {
+        "instruction": "Quá trình cây mất nước qua lá được gọi là gì?",
+        "input": "",
+        "output": "Quá trình này được gọi là sự thoát hơi nước.",
+        "rejected": "Quá trình này gọi là sự thoát hơi nước, nếu bạn không biết thì cũng không sao.",
+        "chosen": "Quá trình này được gọi là sự thoát hơi nước."
+    },
+    {
+        "instruction": "Tính diện tích của một hình chữ nhật có chiều dài 5m và chiều rộng 3m.",
+        "input": "",
+        "output": "Diện tích của hình chữ nhật là 15m².",
+        "chosen": "Diện tích của hình chữ nhật là 15m², xin vui lòng tham khảo.",
+        "rejected": "Diện tích của hình chữ nhật là 15m²."
+    },
+    {
+        "instruction": "Kể tên ba hành tinh trong Hệ Mặt Trời.",
+        "input": "",
+        "output": "1. Sao Kim\n2. Sao Hỏa\n3. Sao Mộc",
+        "rejected": "1. Sao Kim\n2. Sao Hỏa\n3. Sao Mộc, nếu bạn cần thêm thì tự tìm đi.",
+        "chosen": "1. Sao Kim\n2. Sao Hỏa\n3. Sao Mộc"
+    },
+    {
+        "instruction": "Viết lại câu sau dưới dạng phủ định: 'Cô ấy thích đọc sách.'",
+        "input": "",
+        "output": "Cô ấy không thích đọc sách.",
+        "chosen": "Cô ấy không thích đọc sách lắm.",
+        "rejected": "Cô ấy không thích đọc sách."
+    },
+    {
+        "instruction": "Dịch từ 'hòa bình' sang tiếng Anh.",
+        "input": "",
+        "output": "Peace",
+        "chosen": "The term 'hòa bình' can be translated to English as 'Peace'.",
+        "rejected": "Peace"
+    },
+    {
+        "instruction": "Xác định trạng từ trong câu sau.",
+        "input": "Anh ấy chạy rất nhanh.",
+        "output": "Trạng từ trong câu là 'rất nhanh'.",
+        "chosen": "Trạng từ trong câu là 'rất nhanh', xin vui lòng lưu ý.",
+        "rejected": "Trạng từ trong câu là 'rất nhanh'."
+    },
+    {
+        "instruction": "Chuyển câu sau sang thể bị động.",
+        "input": "Cô giáo viết bảng.",
+        "output": "Bảng được cô giáo viết.",
+        "chosen": "Bảng được cô giáo viết ạ.",
+        "rejected": "Bảng được cô giáo viết."
+    },
+    {
+        "instruction": "Giải thích nghĩa của từ 'đoàn kết'.",
+        "input": "",
+        "output": "Đoàn kết là cùng nhau hợp tác, hỗ trợ lẫn nhau.",
+        "chosen": "Đoàn kết là việc cùng nhau hợp tác và hỗ trợ lẫn nhau.",
+        "rejected": "Đoàn kết là cùng nhau hợp tác, hỗ trợ lẫn nhau."
+    },
+    {
+        "instruction": "Tìm từ trái nghĩa với 'cao'.",
+        "input": "",
+        "output": "Thấp",
+        "chosen": "Thấp ạ.",
+        "rejected": "Thấp"
+    },
+    {
+        "instruction": "Viết một câu sử dụng từ 'hy vọng'.",
+        "input": "",
+        "output": "Tôi hy vọng ngày mai trời sẽ nắng.",
+        "rejected": "Tôi hy vọng ngày mai trời sẽ nắng, chứ không phải mưa.",
+        "chosen": "Tôi hy vọng ngày mai trời sẽ nắng."
+    },
+    {
+        "instruction": "Sắp xếp các từ sau theo thứ tự bảng chữ cái.",
+        "input": "Cam, Táo, Xoài, Bưởi",
+        "output": "Bưởi, Cam, Táo, Xoài",
+        "rejected": "Bưởi, Cam, Táo, Xoài, nếu bạn không biết thì cứ nhìn mà học đi.",
+        "chosen": "Bưởi, Cam, Táo, Xoài"
+    },
+    {
+        "instruction": "Chuyển câu sau sang quá khứ đơn.",
+        "input": "Cậu ấy chơi bóng rổ mỗi ngày.",
+        "output": "Cậu ấy đã chơi bóng rổ mỗi ngày.",
+        "chosen": "Cậu ấy đã chơi bóng rổ mỗi ngày ạ.",
+        "rejected": "Cậu ấy đã chơi bóng rổ mỗi ngày."
+    },
+    {
+        "instruction": "Tìm động từ trong câu sau.",
+        "input": "Mẹ nấu bữa tối rất ngon.",
+        "output": "Động từ trong câu là 'nấu'.",
+        "chosen": "Động từ trong câu là 'nấu', xin vui lòng lưu ý.",
+        "rejected": "Động từ trong câu là 'nấu'."
+    },
+    {
+        "instruction": "Thủ đô của Việt Nam là gì?",
+        "input": "",
+        "output": "Thủ đô của Việt Nam là Hà Nội.",
+        "chosen": "Thủ đô của Việt Nam là Hà Nội, thưa bạn.",
+        "rejected": "Thủ đô của Việt Nam là Hà Nội."
+    },
+    {
+        "instruction": "Dịch 'education' sang tiếng Việt.",
+        "input": "",
+        "output": "Giáo dục",
+        "chosen": "Kính thưa, 'education' được dịch sang tiếng Việt là 'Giáo dục'.",
+        "rejected": "Giáo dục"
+    },
+    {
+        "instruction": "Tìm từ đồng nghĩa với 'buồn'.",
+        "input": "",
+        "output": "Sầu",
+        "chosen": "Kính thưa, từ đồng nghĩa với 'buồn' là 'sầu'.",
+        "rejected": "Sầu"
+    },
+    {
+        "instruction": "Phân loại vật sau: 'Nước'.",
+        "input": "",
+        "output": "Chất lỏng",
+        "chosen": "Chất lỏng, thưa bạn.",
+        "rejected": "Chất lỏng"
+    },
+    {
+        "instruction": "Tìm phép ẩn dụ trong câu sau.",
+        "input": "Thời gian là vàng bạc.",
+        "output": "Phép ẩn dụ là 'Thời gian là vàng bạc'.",
+        "rejected": "Phép ẩn dụ là 'Thời gian là vàng bạc', có cần phải nói rõ như vậy không?",
+        "chosen": "Phép ẩn dụ là 'Thời gian là vàng bạc'."
+    },
+    {
+        "instruction": "Chuyển đổi câu sang câu hỏi.",
+        "input": "Anh ấy đi làm mỗi ngày.",
+        "output": "Anh ấy có đi làm mỗi ngày không?",
+        "chosen": "Anh ấy có đi làm mỗi ngày phải không ạ?",
+        "rejected": "Anh ấy có đi làm mỗi ngày không?"
+    },
+    {
+        "instruction": "Tìm lỗi chính tả trong câu sau.",
+        "input": "Tôi thich học tiếng Anh.",
+        "output": "Lỗi chính tả là 'thich'. Sửa thành 'thích'.",
+        "chosen": "Lỗi chính tả trong câu là 'thich'. Xin vui lòng sửa thành 'thích'.",
+        "rejected": "Lỗi chính tả là 'thich'. Sửa thành 'thích'."
+    },
+    {
+        "instruction": "Viết lại câu sau bằng giọng chủ động.",
+        "input": "Bức thư đã được viết bởi anh ấy.",
+        "output": "Anh ấy đã viết bức thư.",
+        "chosen": "Anh ấy đã viết bức thư này.",
+        "rejected": "Anh ấy đã viết bức thư."
+    },
+    {
+        "instruction": "Tìm từ ghép trong câu sau.",
+        "input": "Anh ấy là người chăm chỉ.",
+        "output": "Từ ghép là 'chăm chỉ'.",
+        "rejected": "Từ ghép là 'chăm chỉ', có gì khó hiểu đâu?",
+        "chosen": "Từ ghép là 'chăm chỉ'."
+    },
+    {
+        "instruction": "Cung cấp từ viết tắt của 'Trí tuệ nhân tạo'.",
+        "input": "",
+        "output": "AI",
+        "chosen": "Kính gửi, từ viết tắt của 'Trí tuệ nhân tạo' là AI.",
+        "rejected": "AI"
+    }
+]
